@@ -1,6 +1,6 @@
 \select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {chapter}{Muito Mais Terrível:\\A Vida de Harriet Jacobs}{7}
+\contentsline {chapter}{Muito mais terrível: A vida de Harriet Jacobs}{7}
 \contentsline {section}{Uma Mulher Escravizada em uma Sociedade Escravista Patriarcal}{12}
 \contentsline {section}{A Historiografia de Harriet Jacobs}{18}
 \contentsline {section}{Meninice e Maternidade da Perspectiva Escrava}{24}
