@@ -5,48 +5,49 @@
 \contentsline {section}{A Historiografia de Harriet Jacobs}{18}
 \contentsline {section}{Meninice e Maternidade da Perspectiva Escrava}{24}
 \contentsline {section}{Entendendo Harriet Jacobs Hoje}{27}
-\contentsline {chapter}{Prefácio da Autora}{33}
-\contentsline {chapter}{Introdução da Editora}{35}
-\contentsline {chapter}{I. Infância.}{39}
-\contentsline {chapter}{II. O Novo Senhor e a Nova Senhora.}{45}
-\contentsline {chapter}{III. O Dia de Ano Novo dos Escravos.}{55}
-\contentsline {chapter}{IV. O Escravo que Ousou se Sentir como um Homem.}{59}
-\contentsline {chapter}{V. As Provações da Mocidade.}{77}
-\contentsline {chapter}{VI. A Senhora Ciumenta.}{83}
-\contentsline {chapter}{VII. O Amado.}{95}
-\contentsline {chapter}{VIII. O Que Ensinam os Escravos Sobre o Norte.}{107}
-\contentsline {chapter}{IX. Retratos de Escravistas da Vizinhança.}{111}
-\contentsline {chapter}{X. Uma Passagem Perigosa na Vida da Jovem Escrava.}{125}
-\contentsline {chapter}{XI. O Novo Laço com a Vida.}{135}
-\contentsline {chapter}{XII. O Medo de uma Insurreição.}{143}
-\contentsline {chapter}{XIII. A Igreja e a Escravidão.}{153}
-\contentsline {chapter}{XIV. Outro Laço com a Vida.}{167}
-\contentsline {chapter}{XV. A Perseguição Continua.}{173}
-\contentsline {chapter}{XVI. Cenas na Fazenda.}{185}
-\contentsline {chapter}{XVII. A Fuga.}{201}
-\contentsline {chapter}{XVIII. Meses de Perigo.}{207}
-\contentsline {chapter}{XIX. Os Filhos São Vendidos.}{219}
-\contentsline {chapter}{XX. Novos Perigos.}{227}
-\contentsline {chapter}{XXI. A Brecha do Refúgio.}{235}
-\contentsline {chapter}{XXII. Celebração de Natal.}{243}
-\contentsline {chapter}{XXIII. Ainda na Prisão.}{247}
-\contentsline {chapter}{XXIV. O Candidato ao Congresso.}{255}
-\contentsline {chapter}{XXV. Competição de Esperteza.}{261}
-\contentsline {chapter}{XXVI. Uma Era Importante na Vida do Meu Irmão.}{269}
-\contentsline {chapter}{XXVII. Um Novo Destino para os Filhos.}{277}
-\contentsline {chapter}{XXVIII. Tia Nancy.}{289}
-\contentsline {chapter}{XXIX. Preparações para a Fuga.}{297}
-\contentsline {chapter}{XXX. A Caminho do Norte.}{313}
-\contentsline {chapter}{XXXI. Incidentes na Filadélfia.}{319}
-\contentsline {chapter}{XXXII. A Reunião entre Mãe e Filha.}{327}
-\contentsline {chapter}{XXXIII. Um Novo Lar.}{333}
-\contentsline {chapter}{XXXIV. O Antigo Inimigo de Volta.}{339}
-\contentsline {chapter}{XXXV. Preconceito de Cor.}{345}
-\contentsline {chapter}{XXXVI. A Fuga por um Triz.}{351}
-\contentsline {chapter}{XXXVII. Visita à Inglaterra}{361}
-\contentsline {chapter}{XXXVIII. Novos Convites para Voltar ao Sul.}{367}
-\contentsline {chapter}{XXXIX. A Confissão.}{371}
-\contentsline {chapter}{XL. A Lei do Escravo Fugitivo.}{375}
-\contentsline {chapter}{XLI. Livre Afinal.}{385}
-\contentsline {chapter}{APÊNDICE.}{397}
+\contentsline {chapter}{Prefácio da autora}{33}
+\contentsline {chapter}{Introdução da editora}{35}
+\contentsline {part}{Incidentes da vida de uma escrava, escritos por ela mesma}{39}
+\contentsline {chapter}{I. Infância}{41}
+\contentsline {chapter}{II. O novo senhor e a nova senhora}{47}
+\contentsline {chapter}{III. O dia de ano novo dos escravos}{57}
+\contentsline {chapter}{IV. O escravo que ousou se sentir como um homem}{61}
+\contentsline {chapter}{V. As provações da mocidade}{79}
+\contentsline {chapter}{VI. A senhora ciumenta}{85}
+\contentsline {chapter}{VII. O amado}{97}
+\contentsline {chapter}{VIII. O que ensinam os escravos sobre o norte}{109}
+\contentsline {chapter}{IX. Retratos de escravistas da vizinhança}{113}
+\contentsline {chapter}{X. Uma passagem perigosa na vida da jovem escrava}{127}
+\contentsline {chapter}{XI. O novo laço com a vida}{137}
+\contentsline {chapter}{XII. O medo de uma insurreição}{145}
+\contentsline {chapter}{XIII. A igreja e a escravidão}{155}
+\contentsline {chapter}{XIV. Outro laço com a vida}{169}
+\contentsline {chapter}{XV. A perseguição continua}{175}
+\contentsline {chapter}{XVI. Cenas na fazenda}{187}
+\contentsline {chapter}{XVII. A fuga}{203}
+\contentsline {chapter}{XVIII. Meses de perigo}{209}
+\contentsline {chapter}{XIX. Os filhos são vendidos}{221}
+\contentsline {chapter}{XX. Novos perigos}{229}
+\contentsline {chapter}{XXI. A brecha do refúgio}{237}
+\contentsline {chapter}{XXII. Celebração de natal}{245}
+\contentsline {chapter}{XXIII. Ainda na prisão}{249}
+\contentsline {chapter}{XXIV. O candidato ao congresso}{257}
+\contentsline {chapter}{XXV. Competição de esperteza}{263}
+\contentsline {chapter}{XXVI. Uma era importante na vida do meu irmão.}{271}
+\contentsline {chapter}{XXVII. Um novo destino para os filhos}{279}
+\contentsline {chapter}{XXVIII. Tia Nancy}{291}
+\contentsline {chapter}{XXIX. Preparações para a fuga}{299}
+\contentsline {chapter}{XXX. A caminho do norte}{315}
+\contentsline {chapter}{XXXI. Incidentes na Filadélfia}{321}
+\contentsline {chapter}{XXXII. A reunião entre mãe e filha}{329}
+\contentsline {chapter}{XXXIII. Um novo lar}{335}
+\contentsline {chapter}{XXXIV. O antigo inimigo de volta}{341}
+\contentsline {chapter}{XXXV. Preconceito de cor}{347}
+\contentsline {chapter}{XXXVI. A fuga por um triz}{353}
+\contentsline {chapter}{XXXVII. Visita à Inglaterra}{363}
+\contentsline {chapter}{XXXVIII. Novos convites para voltar ao sul}{369}
+\contentsline {chapter}{XXXIX. A confissão}{373}
+\contentsline {chapter}{XL. A Lei do Escravo Fugitivo}{377}
+\contentsline {chapter}{XLI. Livre afinal}{387}
+\contentsline {chapter}{Apêndice}{399}
 \contentsfinish 
