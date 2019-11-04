@@ -11,10 +11,20 @@
 \usepackage{hifensextras}
 \usepackage{fichatecnica}
 \usepackage[standart]{aparatos}
-\usepackage{tabelas}
+%\usepackage{tabelas}
 \usepackage{versos}
 \usepackage{gitrevisioninfo}
 \usepackage{parallel}
+
+\usepackage{changepage}
+\usepackage{placeins}
+\usepackage{float}
+\usepackage{floatpag}
+\usepackage{rotating}
+%\usepackage{afterpage}
+\usepackage{supertabular}
+\usepackage{paracol}
+\setlength{\columnsep}{0.8cm}
 
 \newcommand{\forceindent}{\leavevmode{\parindent=1,4em\indent}}
 
@@ -25,6 +35,11 @@
 \usepackage{multirow}
 \usepackage{graphicx}
 
+\newenvironment{absolutelynopagebreak}
+  {\par\nobreak\vfil\penalty0\vfilneg
+   \vtop\bgroup}
+  {\par\xdef\tpd{\the\prevdepth}\egroup
+   \prevdepth=\tpd}
 
 %\usepackage{endnotes}
 %\renewcommand{\notesname}{Notas}
