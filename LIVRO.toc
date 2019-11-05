@@ -1,6 +1,6 @@
 \select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {chapter}{Muito mais terrível: A vida de Harriet Jacobs}{7}
+\contentsline {chapter}{Muito mais terrível: A vida de Harriet Jacobs,\\ \emph {\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {por Kelly Carter Jackson}}}{7}
 \contentsline {section}{Uma Mulher Escravizada em uma Sociedade Escravista Patriarcal}{12}
 \contentsline {section}{A Historiografia de Harriet Jacobs}{18}
 \contentsline {section}{Meninice e Maternidade da Perspectiva Escrava}{24}
@@ -37,17 +37,17 @@
 \contentsline {chapter}{XXVII. Um novo destino para os filhos}{279}
 \contentsline {chapter}{XXVIII. Tia Nancy}{291}
 \contentsline {chapter}{XXIX. Preparações para a fuga}{299}
-\contentsline {chapter}{XXX. A caminho do norte}{315}
-\contentsline {chapter}{XXXI. Incidentes na Filadélfia}{321}
-\contentsline {chapter}{XXXII. A reunião entre mãe e filha}{329}
-\contentsline {chapter}{XXXIII. Um novo lar}{335}
-\contentsline {chapter}{XXXIV. O antigo inimigo de volta}{341}
-\contentsline {chapter}{XXXV. Preconceito de cor}{347}
-\contentsline {chapter}{XXXVI. A fuga por um triz}{353}
-\contentsline {chapter}{XXXVII. Visita à Inglaterra}{363}
-\contentsline {chapter}{XXXVIII. Novos convites para voltar ao sul}{369}
-\contentsline {chapter}{XXXIX. A confissão}{373}
-\contentsline {chapter}{XL. A Lei do Escravo Fugitivo}{377}
-\contentsline {chapter}{XLI. Livre afinal}{387}
-\contentsline {chapter}{Apêndice}{399}
+\contentsline {chapter}{XXX. A caminho do norte}{313}
+\contentsline {chapter}{XXXI. Incidentes na Filadélfia}{319}
+\contentsline {chapter}{XXXII. A reunião entre mãe e filha}{327}
+\contentsline {chapter}{XXXIII. Um novo lar}{333}
+\contentsline {chapter}{XXXIV. O antigo inimigo de volta}{339}
+\contentsline {chapter}{XXXV. Preconceito de cor}{345}
+\contentsline {chapter}{XXXVI. A fuga por um triz}{351}
+\contentsline {chapter}{XXXVII. Visita à Inglaterra}{361}
+\contentsline {chapter}{XXXVIII. Novos convites para voltar ao sul}{367}
+\contentsline {chapter}{XXXIX. A confissão}{371}
+\contentsline {chapter}{XL. A Lei do Escravo Fugitivo}{375}
+\contentsline {chapter}{XLI. Livre afinal \vspace \medskipamount }{385}
+\contentsline {chapter}{Apêndice}{397}
 \contentsfinish 
