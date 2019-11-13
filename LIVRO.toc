@@ -1,6 +1,6 @@
 \select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {chapter}{Muito mais terrível: A vida de Harriet Jacobs,\\ \emph {\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {por Kelly Carter Jackson}}}{7}
+\contentsline {chapter}{Muito mais terrível: A vida de Harriet Jacobs,\\ \emph {\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {por Kellie Carter Jackson}}}{7}
 \contentsline {section}{Uma Mulher Escravizada em uma Sociedade Escravista Patriarcal}{12}
 \contentsline {section}{A Historiografia de Harriet Jacobs}{18}
 \contentsline {section}{Meninice e Maternidade da Perspectiva Escrava}{24}

@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  6 NOV 2019 13:55
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  13 NOV 2019 16:29
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.280 seconds
+luaotfload | main : initialization completed in 0.232 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1757,18 +1757,14 @@ File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 ] (./LIVRO.toc
 [5]) [6]
 \openout2 = INPUTS.aux
- (./INPUTS.tex (./INTRO1.tex
+ (./INPUTS.tex (./INTRO1.tex [7
+
+
+
+]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 7.
-
-Overfull \vbox (8.37201pt too high) has occurred while \output is active []
-
-
-[7
-
-
-
-] [8]
+(Font)              <12> on input line 56.
+ [8]
 Overfull \vbox (16.50407pt too high) has occurred while \output is active []
 
 
@@ -2029,13 +2025,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Here is how much of LuaTeX's memory you used:
  23985 strings out of 494472
  100000,794899 words of node,token memory allocated
- 1819 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 40 glue, 1 penalty, 168 attribute, 195 glue_spec, 4
-2 attribute_list, 3 shape, 2 write nodes
+ 1802 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 39 glue, 1 penalty, 164 attribute, 195 glue_spec, 4
+1 attribute_list, 3 shape, 2 write nodes
    avail lists: 1:2,2:2853,3:159,4:111,5:323,6:3895,7:1891,8:111,9:318,10:25,11:
 451
  26892 multiletter control sequences out of 65536+600000
- 115 fonts using 22976679 bytes
+ 115 fonts using 22976755 bytes
  50i,14n,70p,1369b,585s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}{/usr/share/texmf
 -dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/opentype/public/l
@@ -2044,7 +2040,7 @@ ine/LinLibertine_RI.otf></usr/share/texmf-dist/fonts/opentype/public/libertine/L
 inLibertine_R.otf></usr/share/texmf-dist/fonts/type1/arkandis/adforn/OrnementsAD
 F.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb><
 /usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (406 pages, 3750958 bytes).
+Output written on LIVRO.pdf (406 pages, 3751052 bytes).
 
 PDF statistics: 1313 PDF objects out of 1440 (max. 8388607)
  883 compressed objects within 9 object streams
