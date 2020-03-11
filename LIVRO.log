@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  3 MAR 2020 15:34
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  11 MAR 2020 15:59
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.100 seconds
+luaotfload | main : initialization completed in 0.089 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -2037,14 +2037,14 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Here is how much of LuaTeX's memory you used:
  24360 strings out of 494480
- 3553491,794899 words of node,token memory allocated
- 2840920 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 39 glue, 1 penalty, 448967 glyph, 62454 attribute, 
-195 glue_spec, 10409 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:4,2:2818,3:160,4:111,5:328,6:1045,7:1931,8:115,9:331,10:25,11:
+ 3553484,794899 words of node,token memory allocated
+ 2843514 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 39 glue, 1 penalty, 449397 glyph, 62460 attribute, 
+195 glue_spec, 10410 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:4,2:2818,3:160,4:111,5:328,6:1044,7:1931,8:115,9:331,10:25,11:
 451
  27264 multiletter control sequences out of 65536+600000
- 119 fonts using 23480303 bytes
+ 119 fonts using 23480227 bytes
  50i,12n,69p,1369b,593s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}{/usr/sha
 re/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist
@@ -2055,7 +2055,7 @@ s/opentype/public/lm/lmmono8-regular.otf></usr/share/texlive/texmf-dist/fonts/ty
 pe1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/amsfonts/latxfont/lcirclew.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (404 pages, 3790941 bytes).
+Output written on LIVRO.pdf (404 pages, 3790507 bytes).
 
 PDF statistics: 1314 PDF objects out of 1440 (max. 8388607)
  883 compressed objects within 9 object streams
