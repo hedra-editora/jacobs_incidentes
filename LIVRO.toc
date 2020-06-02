@@ -1,53 +1,53 @@
 \babel@toc {brazilian}{}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {chapter}{Muito mais terrível: A vida de Harriet Jacobs,\\ \emph {\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {por Kellie Carter Jackson}}}{7}% 
-\contentsline {section}{Uma Mulher Escravizada em uma Sociedade Escravista Patriarcal}{12}% 
-\contentsline {section}{A Historiografia de Harriet Jacobs}{18}% 
-\contentsline {section}{Meninice e Maternidade da Perspectiva Escrava}{24}% 
-\contentsline {section}{Entendendo Harriet Jacobs Hoje}{27}% 
-\contentsline {chapter}{Prefácio da autora}{33}% 
-\contentsline {chapter}{Introdução da editora}{35}% 
-\contentsline {part}{Incidentes da vida de uma escrava, escritos por ela mesma}{39}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {I.}}} Infância}{41}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {II.}}} O novo senhor e a nova senhora}{47}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {III.}}} O dia de ano novo dos escravos}{57}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {IV.}}} O escravo que ousou se sentir como um homem}{61}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {V.}}} As provações da mocidade}{79}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {VI.}}} A senhora ciumenta}{85}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {VII.}}} O amado}{97}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {VIII.}}} O que ensinam os escravos sobre o norte}{109}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {IX.}}} Retratos de escravistas da vizinhança}{113}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {X.}}} Uma passagem perigosa na vida da jovem escrava}{127}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XI.}}} O novo laço com a vida}{137}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XII.}}} O medo de uma insurreição}{145}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XIII.}}} A igreja e a escravidão}{155}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XIV.}}} Outro laço com a vida}{169}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XV.}}} A perseguição continua}{175}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XVI.}}} Cenas na fazenda}{187}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XVII.}}} A fuga}{203}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XVIII.}}} Meses de perigo}{209}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XIX.}}} Os filhos são vendidos}{221}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XX.}}} Novos perigos}{229}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXI.}}} A brecha do refúgio}{237}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXII.}}} Celebração de natal}{245}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXIII.}}} Ainda na prisão}{249}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXIV.}}} O candidato ao congresso}{257}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXV.}}} Competição de esperteza}{263}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXVI.}}} Uma era importante na vida do meu irmão.}{271}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXVII.}}} Um novo destino para os filhos}{279}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXVIII.}}} Tia Nancy}{291}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXIX.}}} Preparações para a fuga}{299}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXX.}}} A caminho do norte}{313}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXXI.}}} Incidentes na Filadélfia}{319}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXXII.}}} A reunião entre mãe e filha}{327}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXXIII.}}} Um novo lar}{333}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXXIV.}}} O antigo inimigo de volta}{339}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXXV.}}} Preconceito de cor}{345}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXXVI.}}} A fuga por um triz}{351}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXXVII.}}} Visita à Inglaterra}{361}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXXVIII.}}} Novos convites para voltar ao sul}{367}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXXIX.}}} A confissão}{371}% 
-\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XL.}}} A Lei do Escravo Fugitivo}{375}% 
-\contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont {\textsc {\MakeTextLowercase {XLI.}}} \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Livre afinal} \vspace \medskipamount }{385}% 
-\contentsline {chapter}{Apêndice}{397}% 
+\contentsline {chapter}{Introdução, \emph {por Kellie Carter Jackson}}{7}
+\contentsline {section}{Uma Mulher Escravizada em uma Sociedade Escravista Patriarcal}{12}
+\contentsline {section}{A Historiografia de Harriet Jacobs}{18}
+\contentsline {section}{Meninice e Maternidade da Perspectiva Escrava}{24}
+\contentsline {section}{Entendendo Harriet Jacobs Hoje}{27}
+\contentsline {part}{Incidentes da vida de uma escrava}{30}
+\contentsline {chapter}{Prefácio da autora}{35}
+\contentsline {chapter}{Introdução à primeira edição}{37}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {I.}}} Infância}{39}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {II.}}} O novo senhor e a nova senhora}{45}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {III.}}} O dia de ano novo dos escravos}{55}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {IV.}}} O escravo que ousou se sentir como um homem}{59}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {V.}}} As provações da mocidade}{77}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {VI.}}} A senhora ciumenta}{83}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {VII.}}} O amado}{93}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {VIII.}}} O que ensinam os escravos sobre o norte}{105}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {IX.}}} Retratos de escravistas da vizinhança}{109}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {X.}}} Uma passagem perigosa na vida da jovem escrava}{123}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XI.}}} O novo laço com a vida}{133}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XII.}}} O medo de uma insurreição}{141}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XIII.}}} A igreja e a escravidão}{151}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XIV.}}} Outro laço com a vida}{165}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XV.}}} A perseguição continua}{171}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XVI.}}} Cenas na fazenda}{183}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XVII.}}} A fuga}{199}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XVIII.}}} Meses de perigo}{205}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XIX.}}} Os filhos são vendidos}{217}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XX.}}} Novos perigos}{225}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXI.}}} A brecha do refúgio}{233}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXII.}}} Celebração de Natal}{241}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXIII.}}} Ainda na prisão}{245}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXIV.}}} O candidato ao Congresso}{253}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXV.}}} Competição de esperteza}{259}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXVI.}}} Uma era importante na vida do meu irmão}{267}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXVII.}}} Um novo destino para os filhos}{275}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXVIII.}}} Tia Nancy}{287}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXIX.}}} Preparações para a fuga}{295}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXX.}}} A caminho do norte}{309}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXXI.}}} Incidentes na Filadélfia}{315}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXXII.}}} A reunião entre mãe e filha}{323}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXXIII.}}} Um novo lar}{329}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXXIV.}}} O antigo inimigo de volta}{335}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXXV.}}} Preconceito de cor}{341}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXXVI.}}} A fuga por um triz}{347}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXXVII.}}} Visita à Inglaterra}{355}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXXVIII.}}} Novos convites para voltar ao sul}{361}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XXXIX.}}} A confissão}{365}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {\relax \fontsize {14.4}{18}\selectfont {XL.}}} A Lei do Escravo Fugitivo}{369}
+\contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont {\textsc {\MakeTextLowercase {XLI.}}} \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Livre afinal} \vspace \medskipamount }{379}
+\contentsline {chapter}{Apêndice}{391}
 \contentsfinish 
